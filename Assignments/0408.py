@@ -1,4 +1,4 @@
-0408
+"""0408
 
 # Find  outputs  (Home  work)
 for  i   in   range(1 , 8):
@@ -378,7 +378,7 @@ print(a[0]) #  a is not defined
 
 
 
-'''
+# '''
 (Home  work)
 Write  a  program to  determine  average  of  inputs  which  are  terminated  with  ctrl + z
 (without  walrus  operator)
@@ -404,7 +404,7 @@ Enter input  (ctrl + z  to  stop)  :  92.8
 Enter input  (ctrl + z  to  stop)  :  ^Z
 Average :   30.214285714285715
 '''
-
+"""
 total = 0
 count = 0
 
